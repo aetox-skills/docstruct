@@ -12,9 +12,8 @@ desktop.ini
 
 # OS and generated image artifacts not part of v0.1.0
 *.png
+!assets/docstruct-preview.png
 *.jpg
 *.jpeg
 *.gif
-!assets/
-!assets/docstruct-hero.gif
 *.webp

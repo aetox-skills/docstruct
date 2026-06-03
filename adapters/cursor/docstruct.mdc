@@ -1,0 +1,20 @@
+---
+description: Keep project documentation clear, non-duplicated, source-of-truth driven, and token-efficient.
+---
+
+# DocStruct Cursor Rule
+
+When creating, updating, or auditing documentation:
+
+- Read existing docs before writing.
+- Update existing files before creating new files.
+- Create a new doc only when it has a clear responsibility.
+- Keep one source of truth for each durable fact.
+- Link instead of copying details.
+- Mark uncertain information as `UNKNOWN`.
+- Mark required work as `TODO`.
+- Keep docs short unless complexity requires detail.
+- Do not invent missing implementation details.
+- Avoid empty placeholder files.
+
+Use the smallest structure that preserves clarity, ownership, and continuity.
