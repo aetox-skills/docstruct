@@ -2,6 +2,8 @@
 
 DocStruct is an open-source documentation architecture skill that teaches AI agents how to create clear, non-duplicated, token-efficient project documentation.
 
+![DocStruct documentation architecture](เอกสารที่ถูกจัดระเบียบ.png)
+
 ## Why This Exists
 
 AI agents often create too many Markdown files, repeat facts, and leave unclear ownership. DocStruct gives agents a small set of rules for deciding where documentation belongs, when to update existing files, and when a new file is useful.
