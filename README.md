@@ -16,17 +16,28 @@ It tells agents how to decide:
 - how to mark `TODO` and `UNKNOWN` information clearly
 - how to keep documentation small enough for repeated agent workflows
 
-## Install / Use
+## Quick Use
 
-Use [SKILL.md](SKILL.md) as the primary installable skill file.
+Choose the path that matches your agent:
 
-For setup options, see [INSTALL.md](INSTALL.md).
+1. **Generic AI Agent**
+   Copy [SKILL.md](SKILL.md) into your agent instruction context.
 
-Quick use:
+2. **Cursor**
+   Copy [adapters/cursor/docstruct.mdc](adapters/cursor/docstruct.mdc) into `.cursor/rules/docstruct.mdc`.
+
+3. **AGENTS.md**
+   Copy [adapters/agents-md/AGENTS.example.md](adapters/agents-md/AGENTS.example.md) into your project as `AGENTS.md`.
+
+## Use DocStruct With Your Agent
+
+Use this prompt after adding the matching instruction file:
 
 ```txt
 Use DocStruct to inspect this project, update existing docs before creating new files, keep one source of truth, and mark TODO or UNKNOWN items clearly.
 ```
+
+For more setup options, see [INSTALL.md](INSTALL.md).
 
 ## Compatibility
 
