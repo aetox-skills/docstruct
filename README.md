@@ -2,7 +2,7 @@
 
 DocStruct is an open-source documentation architecture skill that teaches AI agents how to create clear, non-duplicated, token-efficient project documentation.
 
-![DocStruct documentation architecture](เอกสารที่ถูกจัดระเบียบ.png)
+![DocStruct documentation architecture](assets/docstruct-hero.gif)
 
 ## Why This Exists
 
