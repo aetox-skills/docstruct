@@ -1,0 +1,18 @@
+# Local/editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# OS and generated image artifacts not part of v0.1.0
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
