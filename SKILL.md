@@ -1,17 +1,23 @@
 ---
 name: docstruct
-description: Use when creating, updating, auditing, or organizing software project documentation. Helps agents keep docs clear, non-duplicated, source-of-truth driven, and token-efficient.
+description: >-
+  Documentation architecture discipline for AI agents.
+  Use when creating, updating, auditing, or organizing software project
+  documentation so docs stay clear, non-duplicated, source-of-truth driven,
+  and token-efficient.
 license: MIT
 metadata:
   author: Aetox Skills
-  version: "0.1.1"
+  version: "0.2.0"
 ---
 
 # DocStruct
 
 ## Purpose
 
-Use DocStruct to create, update, audit, and organize project documentation without duplicate Markdown files, unclear ownership, unnecessary length, or token waste.
+Use DocStruct to create, update, audit, and organize project documentation
+without duplicate Markdown files, unclear ownership, unnecessary length, or
+token waste.
 
 ## When To Use
 
@@ -69,11 +75,14 @@ Put each type of information in its responsible place:
 - Deployment behavior belongs in deployment docs.
 - Cross-system behavior belongs in architecture or integration docs.
 
-Other files may link to the responsible source. Do not copy the same details into multiple files.
+Other files may link to the responsible source. Do not copy the same details
+into multiple files.
 
 ## Output Style
 
-Write direct, compact Markdown. Prefer short sections, bullet lists, explicit status, and links to related files. Avoid decorative prose, long theory, placeholder files, and repeated background context.
+Write direct, compact Markdown. Prefer short sections, bullet lists, explicit
+status, and links to related files. Avoid decorative prose, long theory,
+placeholder files, and repeated background context.
 
 ## Status Labels
 

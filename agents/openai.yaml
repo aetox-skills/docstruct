@@ -1,0 +1,4 @@
+interface:
+  display_name: "DocStruct"
+  short_description: "Token-efficient project documentation structure"
+  default_prompt: "Use $docstruct to organize project documentation without duplication."

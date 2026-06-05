@@ -2,7 +2,8 @@
 
 ## Purpose
 
-These docs show how a small project can organize documentation without overbuilding. Each topic has one responsible file.
+These docs show how a small project can organize documentation without
+overbuilding. Each topic has one responsible file.
 
 ## Reading Order
 

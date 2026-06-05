@@ -2,9 +2,11 @@
 
 ## Purpose
 
-Help an AI agent create, update, audit, and organize project documentation with clear ownership, minimal duplication, and low token cost.
+Help an AI agent create, update, audit, and organize project documentation with
+clear ownership, minimal duplication, and low token cost.
 
-Use this when working on `docs/` folders, README files, feature docs, API docs, architecture notes, or agent handoff notes.
+Use this when working on `docs/` folders, README files, feature docs, API docs,
+architecture notes, or agent handoff notes.
 
 ## Core Behavior
 

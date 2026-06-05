@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.2.0
+
+- Added `agents/openai.yaml` interface metadata for installable skill usage.
+- Updated README discoverability with canonical use cases, boundaries, install
+  guidance, examples, and Aetox skill family links.
+- Updated root `SKILL.md` frontmatter to readable multiline metadata.
+- Standardized license ownership as Aetox Skills.
+- Improved raw Markdown readability across docs, prompts, templates, examples,
+  and skill files.
+- Updated `.gitignore` wording for generated image artifacts.
+
 ## 0.1.1
 
 - Added root `SKILL.md` as the primary installable agent skill file

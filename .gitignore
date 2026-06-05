@@ -10,7 +10,7 @@ desktop.ini
 *.tmp
 *.temp
 
-# OS and generated image artifacts not part of v0.1.0
+# Generated image artifacts not committed as source of truth
 *.png
 !assets/docstruct-preview.png
 *.jpg
