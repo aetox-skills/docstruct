@@ -1,10 +1,22 @@
 # AGENTS.md
 
-## Documentation Behavior
+## DocStruct Documentation Behavior
 
 Use DocStruct when creating, updating, auditing, or organizing project documentation.
 
-Rules:
+## Use When
+
+- Project documentation needs to be initialized or audited.
+- Existing docs are duplicated, unclear, or hard for agents to continue from.
+- A project needs clear documentation ownership and one source of truth.
+
+## Do Not Use When
+
+- A short README edit is enough.
+- The task is architecture mapping or raw-idea architecture proposal work.
+- Legal, compliance, or regulated documentation requires an external standard.
+
+## Rules
 
 - Read existing docs and nearby source files before writing.
 - Update existing docs before creating new docs.

@@ -3,6 +3,10 @@
 ## 0.2.0
 
 - Added `agents/openai.yaml` interface metadata for installable skill usage.
+- Expanded `INSTALL.md` with Codex, Claude Code, Antigravity, AGENTS.md, and
+  manual installation guidance for Windows, macOS, and Linux.
+- Strengthened the AGENTS.md adapter with use cases, boundaries, and core
+  documentation behavior.
 - Updated README discoverability with canonical use cases, boundaries, install
   guidance, examples, and Aetox skill family links.
 - Updated root `SKILL.md` frontmatter to readable multiline metadata.
